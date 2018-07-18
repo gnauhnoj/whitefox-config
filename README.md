@@ -1,1 +1,1 @@
-#whitefox-config
+jon's whitefox-config
